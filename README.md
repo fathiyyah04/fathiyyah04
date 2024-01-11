@@ -1,11 +1,12 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Fathiyyah</h1>
 <h3 align="center">A passionate frontend developer from Malaysia</h3>
 
 - 🌱 I’m currently learning **Software Engineering on my first year of degree!**
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left"> 
+- 📫 How to reach me **fathiyyah841@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
