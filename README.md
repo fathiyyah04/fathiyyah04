@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning **Software Engineering on my first year of degree!**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> fathiyyah841@gmail.com
+<h3 align="left">Connect with me:</h3> 
+<p align="left"> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
