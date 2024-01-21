@@ -92,24 +92,15 @@
 ###
 
 <div align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/fathiyyah-marzukee-194964267" target="_blank">
+  <a href="www.linkedin.com/in/ fathiyyah-marzukee-194964267" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href=""https://twitter.com/ssftyaaaa" target="_blank">
+  <a href="https://twitter.com/ssftyaaaa" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://instagram.com/fthiyyhmrzkee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="fathiyyah841@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/fthiyyhmrzkee/count.svg?"  />
 </div>
 
 ###
